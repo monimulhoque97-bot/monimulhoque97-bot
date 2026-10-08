@@ -1,5 +1,5 @@
 #  About Me:
-👨‍💻 I’m currently working on<br>🚀 Building websites, web applications and real-world software projects<br><br>🤝 I’m looking to collaborate on<br>🌐 Open-source projects, web applications and creative tech ideas<br><br>🆘 I’m looking for help with<br>📈 Becoming a better developer and writing clean, scalable code<br><br>🌱 I’m currently learning<br>⚛️ React.js, Node.js, Express.js and full-stack development<br><br>💬 Ask me about<br>💻 Web development, JavaScript, responsive UI and my projects<br><br>⚡ Fun fact<br>💡 I love turning simple ideas into working projects
+ I’m currently working on<br> Building websites, web applications and real-world software projects<br><br> I’m looking to collaborate on<br> Open-source projects, web applications and creative tech ideas<br><br> I’m looking for help with<br> Becoming a better developer and writing clean, scalable code<br><br> I’m currently learning<br> React.js, Node.js, Express.js and full-stack development<br><br> Ask me about<br> Web development, JavaScript, responsive UI and my projects<br><br> Fun fact<br> I love turning simple ideas into working projects
 
 
 ## 🌐 Socials:
